@@ -1,2 +1,2 @@
 # ALS-Communication-System
-ALS Communication System helps ALS patients to communicate with people and to take information from his/her body like his/her heart rate and connect this information with his/her doctor to follow his/her case.
+The ALS Communication System is a project aimed at assisting patients suffering from Amyotrophic Lateral Sclerosis (ALS) in communication and monitoring vital health parameters. ALS is a neurodegenerative disease that affects nerve cells in the brain and spinal cord, leading to loss of muscle control. As the disease progresses, patients may lose the ability to speak and move, making communication and health monitoring challenging.
